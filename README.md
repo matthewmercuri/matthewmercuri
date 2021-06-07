@@ -2,7 +2,6 @@
   <img alt="matthew mercuri" src="matthewmercuri.png" width=550></img>
   <br/>
   <h2>👋 Hello! Welcome to my GitHub profile!</h2>
-  <h2></h2>
 </div>
 
 <br/>
