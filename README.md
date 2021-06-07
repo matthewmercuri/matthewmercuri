@@ -1,8 +1,3 @@
-<style>
-  div {
-    margin:10px;
-  }
-</style>
 <div align="center">
   <img alt="matthew mercuri" src="matthewmercuri.png" width=550></img>
   <br/>
