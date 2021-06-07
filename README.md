@@ -8,7 +8,9 @@
   <a href="https://www.matthewmercuri.com/"><img alt="website" height=40 src="web.svg" ></img></a>
 </div>
 
+
 Here you will fine all my projects and work related to (mostly) quantitative finance and data science. Though, you'll find some web stuff as well. Poke around, and feel free to get in touch!
+
 
 <div align="center">
   <img alt="tech stack" src="stack.png" width=600></img>
